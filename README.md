@@ -1,3 +1,3 @@
 # rudra
 
-My thesis project that might help you with yoga asanas.
+My thesis project. A program that assess the correctness of yoga asanas.
